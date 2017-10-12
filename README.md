@@ -8,8 +8,9 @@ and Frédéric Chavane (CNRS & Aix-Marseilles University)
 A brief description of each file is given here, with detailed comments 
 (referencing equations in the paper) provided primarily in RunModel.m
 
-** RunModel.m - Main script to run the model
+** RunModel.m - Main script to run the model.
 Edit the string FigString to reproduce different figures from the paper
+
 ** ModelRHSForODE.m - Defines the main equations, 
 i.e. model Right Hand Side
 
