@@ -1,7 +1,7 @@
 Matlab code accompanying the paper
 "Neural field model to reconcile structure with function in primary 
 visual cortex"
-by James Rankin (University of Exeter) 
+by James Rankin (University of Exeter), james.rankin@gmail.com
 and Frédéric Chavane (CNRS & Aix-Marseilles University)
 
 A brief description of each file is given here, with detailed comments 
