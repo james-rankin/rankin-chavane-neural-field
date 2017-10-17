@@ -2,7 +2,6 @@
 Matlab code accompanying the paper
 
 "Neural field model to reconcile structure with function in primary visual cortex", *PLOS Computational Biology*
-
 by James Rankin (University of Exeter) and Frédéric Chavane (CNRS & Aix-Marseilles University)
 doi: [xxx](http://journals.plos.org/ploscompbiol/)
 
@@ -30,8 +29,6 @@ i.e. model Right Hand Side
 * `ComputeFiringRate.m` - Firing rate function (sigmoid)
 
 * `ComputeFTRadialHankel.m` - Numerical computation of Hankel Transform
-
-* `odetpbar.m` - ODE solver progress bar
 
 * `make_colors.m` - defines some colours for plotting
 
